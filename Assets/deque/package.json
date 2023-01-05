@@ -1,0 +1,13 @@
+{
+    "name": "com.nox7atra.deque",
+    "version": "1.0.0",
+    "displayName": "Deque",
+    "description": "Deque Collection Realization for Unity",
+    "unity": "2021.3",
+    "unityRelease": "16f1",
+    "author": {
+        "name": "nox7atra",
+        "email": "dyadichenkoga@yandex.ru",
+        "url": "noxatra.ru"
+    }
+}
